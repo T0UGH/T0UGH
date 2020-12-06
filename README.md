@@ -1,9 +1,16 @@
-### Hi 👋
+### Hi 👋 I'm T0UGH.
 
-I'm T0UGH, a graduate in NEU SEC.
+- 🍻 Graduate at 🇨🇳 [NEU](https://www.neu.edu.cn), SEC
+- ⚡ Java / Python / Golang.
+- ✍️ [Blogger](https://t0ugh.biz)
+- 🔭 Interested in streaming computing and distributed systems.
 
-- 🔭 I like coding.
-- 🌱 I’m currently learning MIT6.824 and flink.
-- 👯 I'm interested in streaming computing and distributed systems.
 
-
+I want to recommend these books and courses to you.This is also my todo List next year.
+- [ ] scala学习手册
+- [ ] 基于Apache Flink的流处理
+- [ ] kafka权威指南
+- [ ] Java并发编程的艺术
+- [ } mit6.924
+- [ ] Deep In Flink Flink内核原理与实现
+- [ ] Hadoop权威指南
